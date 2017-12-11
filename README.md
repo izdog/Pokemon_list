@@ -1,5 +1,5 @@
 # TUTORIEL ANGULAR
-récupère une liste de pokemons, permet d'afficher/éditer sa fiche 
+récupère une liste de pokemons, permet d'afficher/éditer sa fiche. 
 
 # MyApp
 
