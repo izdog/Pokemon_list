@@ -1,3 +1,6 @@
+# TUTORIEL ANGULAR
+récupère une liste de pokemons, permet d'afficher/éditer sa fiche 
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
